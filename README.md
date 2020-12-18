@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=synodriver&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=synodriver&icon_color=CE1D2D&show_icons=true&theme=dark&text_color=718096&hide_title=true" />
 
 - 🔭 I’m currently working on python ...
 - 🌱 I’m currently learning go ...
